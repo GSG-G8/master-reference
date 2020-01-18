@@ -9,38 +9,33 @@
 
 ## Day 1
 
-- 09:00 - 12:00  
+- 09:00 - 12:00
   - Welcome talk
   - Name game
-  - Go through 16 week [schedule](https://github.com/ca-g7/master-reference/tree/master/coursebook)
+  - Go through [schedule](https://github.com/ca-g7/master-reference/tree/master/coursebook)
   - [Code of Conduct](https://github.com/foundersandcoders/gaza-programme/blob/master/professionalism-code-of-conduct.md)
   - [House rules](../general/house-rules.md)
-  
+
 
 — BREAK —
 
-- 13:00 - 14:00 — Introduction to [Pair Programming](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-1/pair-programming.md)
-- 14:00 - 15:00 — [Accessibility Workshop](https://github.com/foundersandcoders/web-accessibility/blob/master/putting-yourself-in-someone-elses-shoes.md)
-- 15.00 - 16.00 — [Github Scavenger Hunt - master reference](../general/github-scavenger-hunt.md)
-- 16:00 - 17:00 — User Manuals
+- 13:00 - 17:00 — [Terminal Self Learning](https://www.rithmschool.com/courses/terminal)
 
 ## Day 2
 
-- 09:00 - 10:00 — Morning Challenge - [Accessibility challenge](https://github.com/foundersandcoders/accessibility-challenge)
+- 09:00 - 10:00 — Morning Challenge - CodeWars
 - 10:00 - 12:00 — [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two)
 
 — BREAK —
 
 - 13:00 - 13:30 — Introduce [Project](./project.md)
-- 13:30 - 13:45 — [Research and Presentation Guidance](../general/research-presentation-guidance.md)
-- 13:45 - 14:00 — Introduce [Research topics](./research-afternoon.md)
-- 14:00 - 16:00 — Research / TBC
-- 16:00 - 17:00 — Research presentations
+- 13:30 - 15:00 — [Responsive Design]()
+- 15:00 - 17:00 — [CSS Animation]()
 
 
 ## Day 3
 
-- 09:00 - 10:00 — [Morning Challenge - CSS Gallery Challenge](https://github.com/foundersandcoders/css-gallery-challenge)
+- 09:00 - 10:00 — [Morning Challenge - CSS]()
 - 10:00 - 12:00 — Projects
 
 — BREAK —
@@ -49,7 +44,8 @@
 
 ## Day 4
 
-- 09:00 - 12:00 — Projects
+- 09:00 - 10:00 — Morning Challenge - CodeWars
+- 10:00 - 12:00 — Projects
 
 — BREAK —
 
