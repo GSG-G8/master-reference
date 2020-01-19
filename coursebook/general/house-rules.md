@@ -1,12 +1,13 @@
 # House Rules
-
 + **Whilst you're a student, arrive on time & let people know in advance if you're going to be away**. Lots of people are giving freely of their time and knowledge to make Code Academy possible and giving up other commitments to be here.
 
-+  **Tidy up after yourself** (at least!). With so many of us in the space, it's easy for the space to get dirty really quickly. Wash up your crockery rather than forgetting about it. :blush:
++ **Attendance**: You must register your attendance using the room's iPad.
 
-+ **Clean desk policy**. We have a clean-desk policy. Please leave your desk clear before you leave each day.
++ **Break time** : No one is allowed to stay at the room during the break time, this way you would be able to build a relationship with other Gaza Sky Geeks community members, Go out and network!
 
-+ **Hot desking**. Please sit anywhere in the classroom when you arrive each morning.
++  **Tidy up after yourself** (at least!). With so many of us in the space, it's easy for the space to get dirty really quickly. Wash up or remove your cups rather than forgetting about it.
+
++ **Clean desk policy**. We have a clean-desk policy. Please leave your desk clean before you leave each day.
 
 + **20-minute rule**. Struggle is good, but not too much of it. As a general rule, if you cannot solve a problem within 20 minutes, then stop and talk to somebody about it (there should be a timer on your desk)
 
@@ -14,6 +15,3 @@
   + By solving problems using the foundations of the language first, you will begin to understand what problems frameworks were built to simplify. This will let you make more effective judgements on which technologies to use in future.
   + It arms students with the flexibility to switch between technologies, as the popularity of each one can shift.
   + Code Academy values are heavily aligned with open source software. You should be better able to contribute to and improve upon existing technologies if you have a deeper understanding of what is going on.
-+ **Attendance**: You must register your attendance using the room's iPad.
-
-+ **break time** : No one is allowed to stay at the room during the break time, this way you would be able to build a relationship with other GazaSkyGeeks community members.
