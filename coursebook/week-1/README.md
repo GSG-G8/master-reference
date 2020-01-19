@@ -16,7 +16,8 @@
   - [Code of Conduct](https://github.com/foundersandcoders/gaza-programme/blob/master/professionalism-code-of-conduct.md)
   - [House rules](../general/house-rules.md)
   - [Baseline survey](https://docs.google.com/forms/d/e/1FAIpQLSdhxWYObX9dGnSuUKHG4SqyCbJ81H4gdplQ2J05U3eqCqWEqw/viewform)
-  - [Cambridge General English Assessment](https://www.cambridgeenglish.org/test-your-english/general-english/)  
+  - [Cambridge General English Assessment](https://www.cambridgeenglish.org/test-your-english/general-english/)
+  - [Submit completion survey](Please provide the link to your test results)  
 
 
 — BREAK —
