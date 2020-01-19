@@ -2,6 +2,7 @@
 
 # Founders and Coders
 
-A master reference for the running of [Founders and Coders](http://www.foundersandcoders.com), including the curriculum.
+A master reference for the running of the Code Academy | Palestine.
 
-**All pull requests welcome**. Check out our [contribution guidelines](https://github.com/foundersandcoders/master-reference/blob/master/CONTRIBUTING.md).
+Our Master Reference is based on [Founders and Coders](http://www.foundersandcoders.com) curriculum but with our own updates and modifications adapted.
+**All pull requests are welcome**. Check out FAC's [contribution guidelines](https://github.com/foundersandcoders/master-reference/blob/master/CONTRIBUTING.md).
