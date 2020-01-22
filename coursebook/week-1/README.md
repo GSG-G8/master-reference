@@ -22,8 +22,8 @@
 
 — BREAK —
 
-- 13:00 - 17:00 — [Terminal Self Learning](https://www.rithmschool.com/courses/terminal)
-
+- 13:00 - 17:00 — [Terminal](https://hackmd.io/NZDwA0QxSg2HGIXpKMFUdw?view)
+  -  [resource](https://www.rithmschool.com/courses/terminal)
 ## Day 2
 
 - 09:00 - 10:00 — Morning Challenge - CodeWars
