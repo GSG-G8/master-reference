@@ -32,13 +32,13 @@
 — BREAK —
 
 - 13:00 - 13:30 — Introduce [Project](./project.md)
-- 13:30 - 15:00 — [Responsive Design]()
-- 15:00 - 17:00 — [CSS Animation]()
+- 13:30 - 15:00 — [Responsive Design](https://github.com/yosefanajjar/Responsive-Design-Workshop)
+- 15:00 - 17:00 — [CSS Animation](https://hackmd.io/@yosefanajjar/SJTXyi3gL)
 
 
 ## Day 3
 
-- 09:00 - 10:00 — [Morning Challenge - CSS]()
+- 09:00 - 10:00 — Morning Challenge - CSS
 - 10:00 - 12:00 — Projects
 
 — BREAK —
