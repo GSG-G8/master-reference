@@ -27,6 +27,7 @@
 ## Day 2
 
 - 09:00 - 10:00 — Morning Challenge - CodeWars
+- 10:00 - 10:15 - [Git Introduction](https://hackmd.io/_u24q9bjQPG3UAH0fEA5tQ)
 - 10:00 - 12:00 — [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two)
 
 — BREAK —
