@@ -699,9 +699,3 @@ asyncAddOne(10, function(newNumber) {
   })
 });
 ```
-
----
-
-And now...
-
-![](https://i.imgur.com/cTdiAaX.png)
