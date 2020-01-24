@@ -15,11 +15,11 @@
   [Intro to NPM](https://github.com/foundersandcoders/npm-introduction)
 
 - 09:30 - 10:00 <br>
-  [Introduction to testing and TDD](https://github.com/foundersandcoders/testing-tdd-intro)
+  [Introduction to testing and TDD](https://github.com/mossa-Sammer/testing-tdd-intro)
 
 - 10:00 - 12:00 <br>
-  [Tape (TDD) workshop](https://github.com/foundersandcoders/fizzbuzz). If you finish early, read more about [testing with Tape](https://github.com/dwyl/learn-tape)
-
+  [Jest (TDD) workshop](https://github.com/mossa-Sammer/fizzbuzz)
+  
 — BREAK —
 
 - 13:00 - 15:00 <br>
@@ -34,16 +34,19 @@
   Morning challenge - [DOM manipulation](https://github.com/foundersandcoders/DOM-manipulation-Challenge)
 
 - 10:00 - 12:00 <br>
-  [Pure functions workshop](https://github.com/foundersandcoders/ws-pure-functions-easy-testing) as an introduction to writing testable code :smile:
+  [Pure functions workshop](https://github.com/GSG-G8/ws-pure-functions-easy-testing) as an introduction to writing testable code :smile:
 
 — BREAK —
 
 - 13:00 - 13:30
   [Introduce Project](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/project)
 
-- 13:30 - 16:30 <br>
-  [Research](./research-afternoon.md)
+- 13:30 - 15:30 <br>
+  [Intro to Functions](https://github.com/ca-g7/master-reference/blob/master/coursebook/week-2/intro-to-functions-slides.md)
 
+- 15:30 - 16:30 <br>
+  [Software Architecture Workshop](https://github.com/foundersandcoders/Workshop-Software-Architecture-Design)
+  
 - 16:30 - 17:00 <br>
   [Video: 'What the heck is the event loop anyway?'](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
