@@ -184,7 +184,7 @@ Note:
 
 You can store a function in an object
 
-<iframe frameborder="0" width="100%" height="500px" src="https://repl.it/@sima_qian/functioninobject?lite=true"></iframe>
+https://repl.it/@sima_qian/functioninobject?lite=true
 
 Note:
 
@@ -217,7 +217,7 @@ Note:
 
 You can store a function in an array
 
-<iframe frameborder="0" width="100%" height="500px" src="https://repl.it/@sima_qian/functionsinarray?lite=true"></iframe>
+https://repl.it/@sima_qian/functionsinarray?lite=true
 
 Note:
 
@@ -245,7 +245,7 @@ function foo(fun) {
 
 You can pass a named function as an argument to another function
 
-<iframe frameborder="0" width="100%" height="500px" src="https://repl.it/@sima_qian/functionasargument?lite=true"></iframe>
+https://repl.it/@sima_qian/functionasargument?lite=true
 
 Note:
 
