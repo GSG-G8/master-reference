@@ -46,7 +46,7 @@ Note:
 
 Know your function
 
-<iframe frameborder="0" width="100%" height="500px" src="https://repl.it/@sima_qian/functionreturnsundefined?lite=true"></iframe>
+"https://repl.it/@sima_qian/functionreturnsundefined?lite=true
 
 Note:
 
@@ -79,7 +79,7 @@ Note:
 
 ---
 
-<iframe frameborder="0" width="100%" height="500px" src="https://repl.it/@sima_qian/everythingisanobject?lite=true"></iframe>
+https://repl.it/@sima_qian/everythingisanobject?lite=true
 
 Note:
 
@@ -113,7 +113,7 @@ var myFunction = foo;
 
 You can store a named function in a variable
 
-<iframe frameborder="0" width="100%" height="500px" src="https://repl.it/@sima_qian/functioninavariable?lite=true"></iframe>
+https://repl.it/@sima_qian/functioninavariable?lite=true
 
 Note:
 
@@ -135,7 +135,7 @@ var myAnonFunction = function() {
 
 You can store an anonymous function in a variable
 
-<iframe frameborder="0" width="100%" height="500px" src="https://repl.it/@sima_qian/anonfunctioninavariable?lite=true"></iframe>
+https://repl.it/@sima_qian/anonfunctioninavariable?lite=true
 
 Note:
 
@@ -280,7 +280,7 @@ function foo(fun) {
 
 You can pass an anonymous function as an argument to another function
 
-<iframe frameborder="0" width="100%" height="500px" src="https://repl.it/@sima_qian/anonfunctionasargument?lite=true"></iframe>
+https://repl.it/@sima_qian/anonfunctionasargument?lite=true
 
 Note:
 
@@ -302,7 +302,7 @@ function greetSomeone(greeting) {
 
 You can return a function from a function
 
-<iframe frameborder="0" width="100%" height="500px" src="https://repl.it/@sima_qian/functionreturnsfunction?lite=true"></iframe>
+https://repl.it/@sima_qian/functionreturnsfunction?lite=true
 
 Note:
 
@@ -348,7 +348,7 @@ foo1(foo2(foo3()));
 
 Funception
 
-<iframe frameborder="0" width="100%" height="500px" src="https://repl.it/@sima_qian/funception?lite=true"></iframe>
+https://repl.it/@sima_qian/funception?lite=true
 
 Note:
 
@@ -452,7 +452,7 @@ function secondFunction(callback) {
 
 Let's take it up a notch
 
-<iframe frameborder="0" width="100%" height="500px" src="https://repl.it/@sima_qian/onecallback?lite=true"></iframe>
+https://repl.it/@sima_qian/onecallback?lite=true
 
 Note:
 
@@ -482,7 +482,7 @@ function thirdFunction(callback) {
 
 Let's add another callback!
 
-<iframe frameborder="0" width="100%" height="500px" src="https://repl.it/@sima_qian/twocallbacks?lite=true"></iframe>
+https://repl.it/@sima_qian/twocallbacks?lite=true
 
 Note:
 
@@ -518,7 +518,7 @@ function secondFunction(callback) {
 
 A callback function can take arguments
 
-<iframe frameborder="0" width="100%" height="500px" src="https://repl.it/@sima_qian/callbackwitharguments?lite=true"></iframe>
+https://repl.it/@sima_qian/callbackwitharguments?lite=true
 
 Note:
 
@@ -577,7 +577,7 @@ Note:
 
 A taste of asynchronicity...
 
-<iframe frameborder="0" width="100%" height="500px" src="https://repl.it/@sima_qian/asynchelloworld?lite=true"></iframe>
+https://repl.it/@sima_qian/asynchelloworld?lite=true
 
 Note:
 
@@ -642,7 +642,7 @@ Note:
 
 ---
 
-<iframe frameborder="0" width="100%" height="500px" src="https://repl.it/@sima_qian/syncasyncmix?lite=true"></iframe>
+https://repl.it/@sima_qian/syncasyncmix?lite=true
 
 Note:
 
@@ -688,7 +688,7 @@ Note:
 
 ---
 
-<iframe frameborder="0" width="100%" height="600px" src="https://repl.it/@sima_qian/syncasyncchallenge?lite=true"></iframe>
+https://repl.it/@sima_qian/syncasyncchallenge?lite=true"
 
 Note:
 
