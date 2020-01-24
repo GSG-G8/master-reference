@@ -9,7 +9,7 @@ This week you are going to learn about testing practices, methodologies and tech
 - Understand the difference between unit & integration tests
 - The Test-driven Development (TDD) methodology
 - How the Red Green Refactor cycle works
-- How to set up and use npm and Tape
+- How to set up and use npm and Jest
 - The importance of pure functions in testing
 - What callbacks are and how to use them
 - How to ping pong code in pairs
