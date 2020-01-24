@@ -26,7 +26,7 @@
   Roman numerals TDD code-along - [final solution](https://github.com/foundersandcoders/roman-numeral-tdd-codealong)
 
 - 15:00 - 17:00 <br>
-  [Intro to Functions](https://github.com/ca-g7/master-reference/blob/master/coursebook/week-2/intro-to-functions-slides.md)
+  [Intro to Functions](./intro-to-functions-slides.md)
 
 ### Day 2
 
@@ -42,7 +42,7 @@
   [Introduce Project](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/project)
 
 - 13:30 - 15:30 <br>
-  [Intro to Functions](https://github.com/ca-g7/master-reference/blob/master/coursebook/week-2/intro-to-functions-slides.md)
+  [Intro to Functions](./intro-to-functions-slides.md)
 
 - 15:30 - 16:30 <br>
   [Software Architecture Workshop](https://github.com/foundersandcoders/Workshop-Software-Architecture-Design)
