@@ -1,16 +1,3 @@
-This was written as a hackmd presentation, based off @shiryz's [`call-it-back` workshop](https://github.com/shiryz/call-it-back) and originally given to the FAC15 cohort on Wednesday morning in Week 2 by @sima-qian. It is placed here for reference.
-
-Please note that if you intend to give this presentation, you should check the status of the REPLs beforehand. Additionally, when you load up the presentation in hackmd in `Slide Mode`, you **will need to** flick through every slide with an embedded REPL before the page finishes loading, to force each REPL to load correctly. It may take a few attempts to get this right. You'll see what I mean.
-
-To have access to the `Notes` while presenting, press the `S` key when in `Slide Mode` to open the speaker view.
-
-I would advise practising a full run-through at least twice. When given to FAC15, the presentation took around 3 hours. This included a break of 10 minutes, 20 minutes coding time for the final challenge and 10 minutes discussing and showing the solution for that challenge. FAC15 were very engaged and asked lots of questions, some of which lead to lengthy side discussions -- hence the long runtime.
-
-It is to be expected that no one will reach a solution for the final challenge, but that once shown the solution the majority of students will be able to talk through how the solution works.
-
-Slides begin below:
-
----
 
 # Functions
 
