@@ -23,7 +23,7 @@
 — BREAK —
 
 - 13:00 - 15:00 <br>
-  Roman numerals TDD code-along - [final solution](https://github.com/foundersandcoders/roman-numeral-tdd-codealong)
+  Roman numerals TDD code-along - [final solution](https://github.com/Asmaathabet/Roman-Numerals)
 
 - 15:00 - 17:00 <br>
   [Intro to Functions](./intro-to-functions-slides.md)
