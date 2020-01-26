@@ -45,7 +45,7 @@
   [Intro to Functions](./intro-to-functions-slides.md)
 
 - 15:30 - 16:30 <br>
-  [Software Architecture Workshop](https://github.com/foundersandcoders/Workshop-Software-Architecture-Design)
+  [Software Architecture Workshop](https://github.com/MohammadAlhalaq/Workshop-Software-Architecture-Design)
   
 - 16:30 - 17:00 <br>
   [Video: 'What the heck is the event loop anyway?'](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
