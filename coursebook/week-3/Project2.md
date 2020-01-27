@@ -22,7 +22,7 @@
 * I want to be able to edit all the information of my product
 
 
-**Important Note:** 
+**Important Notes:** 
 - You should have a pure functions 
 - You should write a test for every function you have
 - The app should be accessible, responsive, and should save its state even after closing the page `local storage`
