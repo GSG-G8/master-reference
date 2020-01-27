@@ -39,7 +39,7 @@
 — BREAK —
 
 - 13:00 - 13:30
-  [Introduce Project](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/project)
+  [Introduce Project](./project2.md)
 
 - 13:30 - 15:30 <br>
   [Intro to Functions](./intro-to-functions-slides.md)
