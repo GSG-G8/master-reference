@@ -31,7 +31,7 @@
 — BREAK —
 
 - 13:00 - 13:30 <br />
-  [Introduce Projects](./Project2.md) & Start Planning Architecture
+  [Introduce Projects](./project.md) & Start Planning Architecture
 - 13:30 - 17:00 <br />
   [Software Design Workshop](https://github.com/foundersandcoders/ws-software-design-js)
 
