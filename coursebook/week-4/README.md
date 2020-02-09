@@ -33,14 +33,11 @@
 - 13:00 - 13:30
   -- [Introduce Project](./project.md)
 
-- 13:30 - 13:45
-  -- Intro to research topics for research afternoon
+- 13:30 - 14:30
+  -- [Deploying & ENV](./deploying.md)
 
-- 13:45 - 16:00
-  -- [Research Afternoon](./research-afternoon.md)
-
-- 16:00 - 17:00
-  -- Review and Present research topics
+- 14:30 - 17:00
+  -- [Node shell workshop](https://github.com/foundersandcoders/Node-Shell-Workshop/)
 
 ### Day 3
 
