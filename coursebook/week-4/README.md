@@ -71,6 +71,6 @@
 
 — BREAK —
 
-- 13:00 - 15:00 — Cohort Stop Go Continue (retrospective) + Team retrospective
+- 13:00 - 15:30 — Cohort Stop Go Continue (retrospective) + Team retrospective
 
-- 15:00 - 17:00 — Soft skills
+- 15:30 - 17:00 — Soft skills
