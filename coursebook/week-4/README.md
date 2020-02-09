@@ -54,7 +54,8 @@
 
 ### Day 4
 
-- 09:00 - 12:00 <br>
+- 09:00 - 10:00 — Morning Challenge - CodeWars
+- 10:00 - 12:00 <br>
   Projects
 
 — BREAK —
@@ -72,4 +73,4 @@
 
 - 13:00 - 15:00 — Cohort Stop Go Continue (retrospective) + Team retrospective
 
-- 15:00 - 17:00 — External Workshop
+- 15:00 - 17:00 — Soft skills
