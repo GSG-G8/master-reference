@@ -15,7 +15,7 @@ Your task is to build a site which will update as you type (an autocompleter), a
 
 #### Goals
 
-1. We expect **back-end testing using tape** (test as many components as you can) and basic **front-end testing**. Please note that we expect tests on _pure functions_ and _not_ on the router or the DOM.
+1. We expect **testing using jest** (test as many components as you can) and basic **front-end testing**. Please note that we expect tests on _pure functions_ and _not_ on the router or the DOM.
 
 2. Host your project on **heroku**, [see resource](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction).
 
