@@ -11,12 +11,9 @@
 
 ### Day 1
 
-- 09:00 - 09:15 -- Learning outcomes for this week
-- 09:15 - 12:00 
-  -- [Workshop on TDD Node server](https://github.com/foundersandcoders/ws-tdd-node-server)
-  
-  — BREAK —
+- 09:00 - 12 -- [Workshop on error handling](https://github.com/foundersandcoders/error-handling-workshop)
 
+  — BREAK —
 
 - 13:00-13:15 - [Introduction to Express](https://github.com/foundersandcoders/introduction-to-express)
 
@@ -26,23 +23,21 @@
 
 ### Day 2
 
-- 09:00 - 11:00 - [Node shell workshop](https://github.com/foundersandcoders/Node-Shell-Workshop/)
-- 11:00 - 12:00 - [Morning Challenge: Build Request module](https://github.com/foundersandcoders/mc-request-module-workshop)
+- 09:00 - 10:30 -- [Workshop on TDD Node server](https://github.com/foundersandcoders/ws-tdd-node-server)
+
+- 10:30 - 12:00 -- [Creating and Testing Express Routes](https://github.com/ali-7/express-and-testing-workshop)
 
 — BREAK —
 
-- 13:00 - 13:30
-  -- [Introduce Project](./project.md)
+- 13:00 - 14:00 -- [Morning Challenge: Build Request module](https://github.com/foundersandcoders/mc-request-module-workshop)
 
-- 13:30 - 13:45
-  -- Intro to research topics for research afternoon
+- 14:00 - 14:30 -- [Introduce Project](./project.md)
 
-- 13:45 - 16:00
-  -- [Research Afternoon](./research-afternoon.md)
+- 14:30 - 16:00 -- [Continuous Integration](./CI.md)
 
-- 16:00 - 17:00
-  -- Review and Present research topics
-
+- 16:00 - 17:00 -- [Client Side Validation](https://github.com/foundersandcoders/mc-client-side-validation)
+  
+  
 ### Day 3
 
 - 09:00 - 10:30 <br /> Introduction To Promises - Fetch API - node-fetch - Morning challenge on [Promises](https://github.com/foundersandcoders/mc-promise-me-this)
