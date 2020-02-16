@@ -10,7 +10,7 @@ The key difference between this project and your API week project is that you wi
 ### Example:
 
 #### User Stories:
-'As a student at F&C I want to know all the train departure times from Finsbury Park tube station, so that I can get home in time for dinner'.🚉🍛
+'As a student at GSG code academy I want to know all the train departure times from Gaza station, so that I can get home in time for dinner'.🚉🍛
 
 'As a regular commuter, I want to input which direction of travel I am interested in so that I can see information that is relevant to me.'
 
@@ -21,7 +21,7 @@ You can build on this user story or create your own user stories as long as they
 ### Goals:
 1) Write your server using expressJS
 
-2) Use at least 1 API that uses an Access Key and make your API calls from the back-end (try using the `request` node module)
+2) Use at least 1 API that uses an Access Key and make your API calls from the back-end (try using the `node-fetch` node module)
 
 3) Add the api data to your webpage using DOM manipulation on the Front End (try using `Fetch API` instead of `XMLHttpRequest`)
 
@@ -29,7 +29,7 @@ You can build on this user story or create your own user stories as long as they
 
 4) We expect to see lots of tests! Modularise your code and test all your pure functions. Write tests for as much of your back-end and front-end logic as you can. We don't expect tests on the DOM.
 
-5) Test your server routes by injecting fake HTTP requests using Supertest (including testing for 404's). _Note - you are not required to test any server route that makes an API call, as this will make the test impure (a test that depends on an external factor is not reliable)_
+5) Test your server routes by injecting fake HTTP requests using Supertest (including testing for 404's). _Note - **you are not required to test any server route that makes an API call**, as this will make the test impure (a test that depends on an external factor is not reliable)_
 
 6) Host your project on Heroku.
 7) Use module.exports and require to break a single large server file into smaller modules.
