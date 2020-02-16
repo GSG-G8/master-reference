@@ -23,13 +23,13 @@
 
 ### Day 2
 
-- 09:00 - 10:30 -- [Workshop on TDD Node server](https://github.com/foundersandcoders/ws-tdd-node-server)
+- 09:00 - 10:30 -- [Workshop on TDD Node server](https://github.com/GSG-G8/ws-tdd-node-server)
 
 - 10:30 - 12:00 -- [Creating and Testing Express Routes](https://github.com/ali-7/express-and-testing-workshop)
 
 — BREAK —
 
-- 13:00 - 14:30 -- Introduction To Promises - Fetch API - node-fetch - Morning challenge on [Promises](https://github.com/foundersandcoders/mc-promise-me-this)
+- 13:00 - 14:30 -- Introduction To Promises - Fetch API - node-fetch - Morning challenge on [Promises](https://github.com/GSG-G8/mc-promise-me-this)
 
 - 14:30 - 15:00 -- [Introduce Project](./project.md)
 
