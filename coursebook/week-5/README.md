@@ -11,7 +11,7 @@
 
 ### Day 1
 
-- 09:00 - 12 -- [Workshop on error handling](https://github.com/foundersandcoders/error-handling-workshop)
+- 09:00 - 12 -- [Workshop on error handling](https://github.com/Amoodaa/error-handling-workshop)
 
   — BREAK —
 
