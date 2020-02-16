@@ -29,11 +29,11 @@
 
 — BREAK —
 
-- 13:00 - 14:00 -- Introduction To Promises - Fetch API - node-fetch - Morning challenge on [Promises](https://github.com/foundersandcoders/mc-promise-me-this)
+- 13:00 - 14:30 -- Introduction To Promises - Fetch API - node-fetch - Morning challenge on [Promises](https://github.com/foundersandcoders/mc-promise-me-this)
 
-- 14:00 - 14:30 -- [Introduce Project](./project.md)
+- 14:30 - 15:00 -- [Introduce Project](./project.md)
 
-- 14:30 - 16:00 -- [Continuous Integration](./CI.md)
+- 15:00 - 16:00 -- [Continuous Integration](./CI.md)
 
 - 16:00 - 17:00 -- [Client Side Validation](https://github.com/foundersandcoders/mc-client-side-validation)
   
