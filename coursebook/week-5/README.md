@@ -29,7 +29,7 @@
 
 — BREAK —
 
-- 13:00 - 14:00 -- [Morning Challenge: Build Request module](https://github.com/foundersandcoders/mc-request-module-workshop)
+- 13:00 - 14:00 -- [Build Request module](https://github.com/foundersandcoders/mc-request-module-workshop)
 
 - 14:00 - 14:30 -- [Introduce Project](./project.md)
 
