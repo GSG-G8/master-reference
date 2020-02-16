@@ -29,7 +29,7 @@
 
 — BREAK —
 
-- 13:00 - 14:00 -- [Build Request module](https://github.com/foundersandcoders/mc-request-module-workshop)
+- 13:00 - 14:00 -- Introduction To Promises - Fetch API - node-fetch - Morning challenge on [Promises](https://github.com/foundersandcoders/mc-promise-me-this)
 
 - 14:00 - 14:30 -- [Introduce Project](./project.md)
 
@@ -40,7 +40,7 @@
   
 ### Day 3
 
-- 09:00 - 10:30 <br /> Introduction To Promises - Fetch API - node-fetch - Morning challenge on [Promises](https://github.com/foundersandcoders/mc-promise-me-this)
+- 09:00 - 10:30 [Learn fetch](https://github.com/oliverjam/learn-fetch)
 
 - 10:30 - 12:00 <br>
   Projects
