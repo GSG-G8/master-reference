@@ -7,7 +7,7 @@ Some suggested project ideas are below. Feel free to modify according to your in
 
 ### Requirements
 
-- Simple web app with a node server and a database using express, handlebars and postgreSql. 
+- Simple web app with a node server and a database using express, and postgreSql. 
 - Your database comes with a schema, which should be documented in your readme (along with any other architectural decisions)
 - Database hosted on Heroku.
 - Build script for your database
